@@ -1,7 +1,7 @@
 
 # Stock Portfolio Updater
 
-Hi! Stock portfolio updater is a program that extracts the data of a user's stock portfolio and emails them an update of their portfolio every time the program is called (or every weekday when the stock market closes). The update shows the stock names, their individual prices in CAD, quantity owned, and the total price of each stock and the entire portfolio in CAD.
+Hi! Stock Portfolio Updater is a program that extracts the data of a user's stock portfolio and emails them an update of their portfolio every time the program is called (or every weekday when the stock market closes). The update shows the stock names, their individual prices in CAD, quantity owned, and the total price of each stock and the entire portfolio in CAD.
 
 ## Installation
 
