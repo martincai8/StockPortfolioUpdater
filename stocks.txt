@@ -1,0 +1,6 @@
+AAPL 4
+TSLA 3
+AC 3
+TD 5
+NIO 1
+AMZN 5
