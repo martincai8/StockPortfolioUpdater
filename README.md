@@ -5,7 +5,7 @@ Hi! Stock Portfolio Updater is a program that extracts the data of a user's stoc
 
 ## Installation
 
-1. Download the zip file.
+1. Clone the repository into your IDE of choice.
 2. Replace the sample stock names and quantities with your own information in the format "stockName stockQuantity".
 3. Install the necessary libraries using:
 ```bash
